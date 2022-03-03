@@ -1,10 +1,11 @@
-import logo from './logo.svg';
 import './App.css';
+import FuncComp from './FuncComp';
 
 function App() {
   return (
-    <div className="App">
-  Hello
+    <div className='container'>
+      <h1>Class to Functional</h1>
+      <FuncComp/>
     </div>
   );
 }
