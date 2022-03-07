@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GregPetropoulos/ClassToFunc/static/css/main.2d3787ac.css",
+    "main.js": "/GregPetropoulos/ClassToFunc/static/js/main.79ea13b0.js",
+    "index.html": "/GregPetropoulos/ClassToFunc/index.html",
+    "main.2d3787ac.css.map": "/GregPetropoulos/ClassToFunc/static/css/main.2d3787ac.css.map",
+    "main.79ea13b0.js.map": "/GregPetropoulos/ClassToFunc/static/js/main.79ea13b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d3787ac.css",
+    "static/js/main.79ea13b0.js"
+  ]
+}
