@@ -1,7 +1,7 @@
 # Convert A Class Component to Functional Component Guide
 ### Link
 [Demo](https://gregpetropoulos.github.io/ClassToFunc/)
-### Demo
+
 
 ## Intro
 
