@@ -1,13 +1,17 @@
 import './App.css';
-import FuncComp from './FuncComp';
+import Dogs from './Dogs';
+import Cats from './Cats';
+import ChangeCat from './ChangeCat';
 
-function App() {
+const App = () => {
   return (
     <div className='container'>
       <h1>Class to Functional</h1>
-      <FuncComp/>
+      <Dogs />
+      <Cats />
+      <ChangeCat />
     </div>
   );
-}
+};
 
 export default App;

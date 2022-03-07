@@ -13,5 +13,12 @@ code
 ## Functional Component
 
 ```
-code
+import React from 'react';
+
+const Dogs = () => {
+  return <h1>Hello Dogs</h1>;
+};
+
+export default Dogs;
+
 ```
